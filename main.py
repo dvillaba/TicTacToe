@@ -1,5 +1,5 @@
 #
-#   Coding Test Done by David Villaba for Wave
+#   Coding Test Done by David Villaba for A Mobile Company
 #   dvillaba@protonmail.com
 #   www.davidvillaba.net
 #
