@@ -215,7 +215,7 @@ def TicTacToeDavidVillaba():
 
         return GetNextMovement(vBoard)
     else:
-        return 'Insert a valid board', 400
+        return 'Insert a valid boardS', 400
 
 
 if __name__ == '__main__':
